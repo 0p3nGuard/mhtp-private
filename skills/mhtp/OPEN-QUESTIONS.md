@@ -1,0 +1,23 @@
+# MHTP — Open Questions
+
+*Everything unresolved. Leave open seams open — don't fabricate. Resolve with Matt or from incoming material.*
+
+## From the July 2 session (never reached — time ran out)
+- **Q5 — his sharpest / immersion state.** What does his clearest-thinking state feel like from the inside, what gets him there, what knocks him out of it? Let *him* name it (don't impose Josh's "river"). Backfill in the follow-up round; probe Dan/Alpin/Alana for outside reads.
+- **Q6 — must-nail / never-touch.** The one thing MHTP must get right for him, and the line it must never cross. Backfill in the follow-up round.
+
+## Build inputs pending
+- **Investor roster for the Multi-Framework Investor Read** — the 6–10 investors Matt most respects, whose lenses the capability runs. From Matt.
+- **Matt's canon** — favorite books, influential essays, investment letters, formative writings. From Matt → `sources/full-texts/`.
+- **Slack articles** Matt posted → ingest to `sources/` + fidelity notes.
+- **Colossus / Patrick transcript** — pull full and ingest (Matt authorized his public interviews as genuine).
+- **Interview notes** — Dan (Jul 14), Alpin (Jul 15), Alana (Jul 17) → `references/external-observations.md`.
+
+## Structural / mechanical
+- **Foundation library** — the inherited Grey full-texts weren't copied in this pass (mount write issues on bulk/nested files). Layer them into `sources/full-texts/` in the Source Library phase, weighted second to Matt's canon.
+- **Guardrail specifics** — confirm with Matt any particular things MHTP should or should not remember (customizable per First Principle #1).
+- **Install / packaging** — package + install to Matt's Claude account; setup+use note. (Decisions & Setup phase.)
+- **V2 internal-data pipeline** — define the designated confidential source, post-V1. Architect V1 so V2 layers on.
+
+## Posture watch
+- The engine posture files still reference "Josh" (voice-and-stance, what-josh-would-never-say). That's intentional — they encode the *engine's* quality of attention. Revisit whether any need a Matt-facing pass once V1 is exercised.
