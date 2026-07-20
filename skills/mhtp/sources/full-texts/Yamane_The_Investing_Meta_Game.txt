@@ -1,0 +1,85 @@
+The Investing Meta-Game — Geoff Yamane
+Source: https://geoff-yamane.com/blog/2019/2/28/the-investing-meta-game
+Published: February 28, 2019 (Investment Strategy, Information Theory)
+[Ingested for MHTP — Matt's canon. Full text as captured from the page.]
+
+---
+
+"Over the last decade, I've interviewed and assessed more than 5,000 investment managers. One of the most important things I've learned in that process is what separates the great investors from the rest. The great ones view investing as a game, and they know exactly what game they're playing"
+— "The Playing Field", Graham Duncan, Eastrock Capital
+
+Last month I read the Chinese science fiction book The Three-Body Problem: in a virtual world, the protagonist is challenged by inconsistent cycles of day and night which are unexplained until he realizes there are three planetary bodies: the Earth, and two suns. In this story, the "third body" exerts an unseen force distorting the gravitational relationship between the Earth and the Sun. The wonderful thing about science fiction is it forces the reader to consider the world unbounded by the thinking of habit: the air we breathe or the water we swim in. The goal of this essay is to "re-frame" investing in a way that might allow us to see the deeper investing meta-game, or the game within the game.
+
+This essay explores, through the metaphor of the "The Water We Swim In", why changes in the market environment are changing the investment strategies that may work going forward.
+
+There are five important takeaways:
+- All investors are engaged in a common myth – or narrative;
+- Most investors describe the "quality" of their investment process, but this is only one part of what generates alpha; it is investment process relative to your competition which matters more;
+- A strategy's ability to generate alpha (or excess return) depends on the eco-system in which it operates. And most investment alpha can only be generated relative to another dominant strategy;
+- All investment strategies, even value investing, are information front-running. Widely available information reduces these opportunities;
+- Idiosyncratic risk is likely the last preserve of human investment managers?
+
+A Discounted Cash Flow is but one "narrative" of the value of a company
+
+Most investors, myself included, take some intellectual comfort from the view that we are investing based on discounted cash flows ("DCF"), however we choose to define them whether DCF, or its shorthand derivations, P/E, EV/EBITDA, etc.
+
+Yet many companies today have an average expected corporate life shorter than the DCF used to value them: in most DCF's, terminal value is the most important driver. As a result, what we believe today about the future is unlikely to be true, and investors almost never achieve the "modeled" return. DCF-investing works because most other investors also believe, or will eventually, that a DCF is a reasonable measure of fair value for a company. Investors deal in relative, not absolute truths. There are of course some exceptions (such as arbitrage, deep value with high earnings / dividend yields, etc)
+
+Investors then are dealing in a "DCF narrative", the same way all societies share beliefs about the intangible qualities of money. And sometimes these narratives change: investing seemed to move from the tribe of the Benjamin Graham net-net to tribe of Buffett / Munger See's Candy reinvestment moats, with tremendous benefits to those who recognized it first. Other times these narratives collapse – usually following being proved wrong – like the 1950's conglomerate boom.
+
+Why alpha is a relative game
+
+Most investors understand alpha as the excess return an investor earns above his / her portfolio's beta- or factor-returns. But alpha can be imagined differently, as the return extracted from other market participants, understood through the analogy of a parasite:
+
+"the most effective alpha-generating investment strategies are parasites … [which] uses the market itself as its habitat. It's not an investment strategy based on the fundamentals of this company or that company – the equivalent of a geographic habitat – but on [exploiting] the behaviors of market participants … A parasitic strategy isn't the only way to generate alpha – but I believe that the investment strategies with the largest and most consistent 'edge' are, in a very real sense, parasites."
+— Parasite Rex, Epsilon Theory
+
+Simplified examples can yield important insights: a horse-race is a close analogue to the stock market. Two variables determine successful bets. First, you must have some foresight into the future through betting on the right horses: this is an "investment process". Second, you must also identify where the odds, implied by prices, are different than your view of the future. The stock market is similar: investors bet on future company profitability relative to stock valuations. Most investors understand this.
+
+There's one more important point. Imagine you have an "investment process" — you collect statistical data on past horse races to forecast the future, you address your behavioral biases, you have "long-term capital". Yet after years of betting, your results are statistically no better than average. He's missed an important point: it's not the sophistication of his process that matters, it's the quality of his process relative to the pool of competitors — and likely his pool of competitors has changed. Thus it may not matter that your team does pre-mortem reviews, red-team / blue-team, checklists, or any of the like, as the incremental quality of decision-making does not overcome a very real problem: most of your competitors are doing it too.
+
+In this respect the parasite analogy is astute. Parasites (strategies) can only survive in the presence of an available host (counterparty), the same way a value strategy can only survive against market participants which set prices under other (non-fundamental) considerations. And as of today, there are 40,000 "contrarians" attending the Berkshire Hathaway meeting; chances are in most stocks you traffic, the person selling to you is the "contrarian" sitting in the bleacher seat next to you.
+
+All value investing is information front-running within a dominant narrative
+
+"The only way to make money reliably on Wall Street is by front running. Front running means to buy or sell things ahead of others, knowing or expecting that other people will follow you later. Short term front running is often called 'illegal'. Long term front running is often called 'investing'."
+— Thomas Peterffy, Founder, Interactive Brokers
+
+Is value investing also information front-running? I think it is. A successful value investment goes something like this: one buys a stock at a P/E multiple of 6x, holds for a few years during which EPS grows and dividends are paid, then sells the stock at a P/E multiple of 10x. Our value investor makes money from some combination of predicting the future, buying at a cheap price, then having the market (others) agree with him. Very few investors hold a stock for the duration of their DCF forecast. Value investors are front-running, the same way momentum investors do, the same way scalpers do in an open-outcry pit: we assume some special insight the market has failed to recognize.
+
+Consider the small cap value manager of 1990. Sitting in an office with a rented Bloomberg terminal, he had access to more financial information, available instantaneously, than any previous investor in history. Technology took something scarce (financial information, access & attention) and made it more abundant. The manager, discovering a $500M small-cap stock trading below book value at a 6x P/E, purchased the stock, collected a very high earnings / dividend yield, and waited. His high return was realized when another value investor discovered that same stock, thinking it must be worth 10x P/E, and paid him a handsome profit. In either case, the investor was trading against another participant and had to be at least partially right. Reading the early Greenlight or Tiger Management letters during their heyday, one realizes it was not rocket science, and the hurdle was low, but they were first.
+
+Recast in this light, hedge funds were at the leading edge of an information revolution when Bloomberg took the lever of technology to solve a very acute problem: the non-scalability of human attention — there were more orphaned, undiscovered small-cap stocks available than qualified investment analysts to physically unearth them.
+
+Yet many business moats we consider to be problems of position or proximity can be described (and solved) as information-problems. Physical location was a proxy for information. Re-framing business problems as information-problems allows one to create equivalence between investment concepts we understood in a physical sense and their digital equivalents. If you believe this analogy, then companies like Google are really the Goldman prop desks of the information age — sitting between an information buyer and seller and taking a spread. Many businesses at their core revolve around information facilitation: consumer brands convey quality information, capital markets convey asset & cash-flow information, sales executives convey customer information, real estate brokers convey location information, and distribution conveys price / availability information. If you are looking for some underlying truth that broadly explains the disruption occurring, it may be this: the marginal cost of acquiring information has plummeted.
+
+"What important truth do very few people agree with you on?"
+— "From Zero to One", Peter Thiel
+
+Thus restated, investment alpha is the collection of informational insights which is currently in the minority, but likely to become the majority. You can't have a non-correlated alpha-abundant return stream unless you have these types of "parasitic" conditions.
+
+The Water We Swim In: the stock market eco-system of today
+
+"One game that is currently operative among many skilled investors is buying quality companies in the midst of short-term difficulties … But a game like this will likely work for several years, before it becomes such a common approach that these 'quality' stocks will become less volatile during periods of stress. So an investor who uses only one game will have less sustainable returns than those who reach the next stage: putting in the time to develop new games even while playing the existing one."
+— "The Playing Field", Graham Duncan, Eastrock Capital
+
+One mentor in the investing game came from the index-arbitrage / program trading desks of the 1990's. I once asked him how he knew when to buy a stock and he said it was when the stock no longer went down on bad news – bad news was already in the price. What both stories illustrate, through the proxy of market price, was the composition of other investors in the stocks we swim in.
+
+Today's habitat is dominated to a large extent by machines. Their investment processes derive signals and operate in the world of probabilities. These programs don't necessarily sell when they face a 20% drawdown nor are they limited by the eight hours in a day to hunt for new ideas. And the presence of these participants changes the investing-game you're playing. In fact, most "quality" ETFs today are almost indistinguishable from the "long compounder" books of most hedge and mutual funds.
+
+The irony is the biggest inefficiency of stock markets is not the inability to do a DCF model — the biggest inefficiency is the human in ourselves. Most stock market strategies at their heart are parasitic exploitations of the inefficiencies of other human participants. The implication of the shifting market eco-system from human-to-machine participants means many strategies depend on implicitly assumed conditions of the habitat that may no longer be true.
+
+Idiosyncratic risk: the last preserve of human investment managers?
+
+In poker, which has similar dynamics to horse-race betting, the optimal strategy depends on other players. This is true in the stock market as well. If a successful alpha-generating strategy is one that trades against the dominant biases of others, what are the now dominant biases? Make a guess as to today's dominant strategies — passive indexation, valuation dispersion, fundamental quant — then infer their biases:
+- Passive indexation: market-cap-weighted, inbuilt bias that big companies get bigger; would miss narrow-breadth or regime shifts.
+- Valuation dispersion: valuations within sectors correct but across sectors could be wrong.
+- Quant strategies: statistically cheap value (small-cap, EM) may be crowded relative to capacity.
+
+Where would active managers of the DCF-tribe find opportunity?
+- Compounders, a non-parasitic game: returns determined by incremental reinvestment rate, not entry valuation — most resistant to price efficiency. The popularity of "compounder" strategies may be tacit acknowledgement of the lack of opportunity in more parasitic strategies relying on information asymmetries. Danger: participants implicitly pricing a reinvestment period in excess of the complex reality they can forecast (cf. Kraft Heinz; possibly Roper, Danaher, Constellation Software).
+- Structural change discontinuous with past history: any strategy using historical data-sets struggles here. A generalist trading across sectors might have intuition around it; a computer, at least for a while, would be lost. This might be the preserve of a few extraordinary managers or of the expert-generalist.
+
+These insights require real skill and are perhaps not scalable across an organization: good process can be taught, complex intuition is trickier. The most successful investors are not those who succeed within a single regime, like the tribe of the value investor, but those who are successful across regimes (Seth Klarman, Andy Beal, Richard Rainwater, Steve Cohen). Today's investment eco-system is moving across regimes, as "the water investors swim in" changes.
+
+[Tags: competitive advantage, pari-mutuel betting, eco-system, compounders, parasitic strategies, quant]

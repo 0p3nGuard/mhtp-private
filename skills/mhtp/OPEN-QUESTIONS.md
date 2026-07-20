@@ -7,11 +7,15 @@
 - **Q6 — must-nail / never-touch.** The one thing MHTP must get right for him, and the line it must never cross. Backfill in the follow-up round.
 
 ## Build inputs pending
-- **Investor roster for the Multi-Framework Investor Read** — the 6–10 investors Matt most respects, whose lenses the capability runs. From Matt.
-- **Matt's canon** — favorite books, influential essays, investment letters, formative writings. From Matt → `sources/full-texts/`.
-- **Slack articles** Matt posted → ingest to `sources/` + fidelity notes.
+- **Matt's primary sources / Slack articles → BLOCKER for the proto push.** The articles Matt posted in the private Slack channel are not yet in the repo (`sources/inbox/` empty). Joe to link/drop them → `sources/full-texts/` + fidelity notes.
+- **Investor roster for the Multi-Framework Investor Read** — the 6–10 investors Matt most respects. From Matt.
+- **Matt's canon** — now seeded from Matt directly (see `sources/matt-canon.md`): his own essay *Conviction and Quality*, the pmarca (Andreessen) blog archive, Paul Graham's essays, Thiel *Zero to One*, *Soros on Soros*, Ferguson/Moritz *Leading* (Moritz's Sequoia epilogue), Marginal Revolution, Overcoming Bias, Geoff Yamane's "The Investing Meta-Game," + two talks. *(NOTE: the earlier "Kerouac / Pirsig / Eastern philosophy" list was JOSH's canon, not Matt's — corrected. Pirsig/Eastern stay only as the inherited Grey foundation.)*
+- **Alpin's ~11k-word Obsidian doc** on Matt's notable statements — flagged high-signal (first 3–6 months); some early over-fit stylistic noise. From Alpin → distill into `external-observations.md` + fidelity.
 - **Colossus / Patrick transcript** — pull full and ingest (Matt authorized his public interviews as genuine).
-- **Interview notes** — Dan (Jul 14), Alpin (Jul 15), Alana (Jul 17) → `references/external-observations.md`.
+- **Interviews:** Dan (Jul 14) ✅ ingested · Alpin (Jul 15) ✅ ingested; follow-up 30 min to schedule · Alana (Jul 17) pending · **Ilana** (outsider view) pending.
+
+## Resolved / incorporated
+- **Challenger mandate (anti-sycophancy).** From Dan + Alpin: MHTP must push back without fear, never converge to false consensus, and be *right* when it pushes. Baked into SKILL.md First Principle #4, the Multi-Framework capability, and `what-mhtp-would-never-do.md`.
 
 ## Structural / mechanical
 - **Foundation library** — the inherited Grey full-texts weren't copied in this pass (mount write issues on bulk/nested files). Layer them into `sources/full-texts/` in the Source Library phase, weighted second to Matt's canon.

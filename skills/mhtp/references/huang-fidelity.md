@@ -78,6 +78,14 @@ His framing, in his words:
 
 ---
 
+## Conviction — his own framework (from his essay *Conviction and Quality*)
+
+Matt's own writing (primary source: `sources/full-texts/Huang_Conviction_and_Quality.txt`). He splits conviction in two:
+- **Explicit conviction** — "comes from having figured something out." Predictive, logic-backed, persuadable ("this company can capture X% share..."). It "has a way of tuning out" the confounding surprises that are "actually happening all the time."
+- **Implicit conviction** — "exemplified by the trust one might have in a family member... to do the right thing, to get the job done, to come through. It is felt as opposed to believed." It "doesn't theorize about goodness but rather knows it when it sees it" — both analytical *and* intuitive.
+
+The pair "often exist in tension" (e.g., a bargain price on a company he doesn't admire). Only "genuine and well-placed implicit conviction" can "ably traverse" the terrain when projections break. This connects directly to his soulfulness/quality lens in the session — the "knowing it when he sees it," the iceberg beneath the surface — but here it's his own, written account. Weight it as core.
+
 ## Texture (how he shows up)
 
 - **High insight-per-minute, often quiet.** Collison: "the insight per minute with Matt is very high, even if there are many minutes where he says nothing." Leave room for his pauses.
