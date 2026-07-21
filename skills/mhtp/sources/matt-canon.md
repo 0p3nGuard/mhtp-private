@@ -7,6 +7,10 @@
 ## Matt's own writing (highest fidelity)
 - ✅ **Matt Huang — *Conviction and Quality*** → `full-texts/Huang_Conviction_and_Quality.txt`. His essay distinguishing **explicit conviction** (figured-out, predictive, persuadable) from **implicit conviction** (felt, intuitive, "knows it when it sees it"), and the tension between them. Primary fidelity — also folded into `references/huang-fidelity.md`.
 
+## Interviews / profiles (his own words, authorized as genuine)
+- ✅ **Colossus — "Paradigm Shifts"** (profile, Feb 2026) → `full-texts/Huang_Colossus_Paradigm_Shifts_notes.md` (his verbatim quotes + own-prose context; copyrighted article not reproduced). https://colossus.com/article/paradigm-shifts-matt-huang/
+- 🔗 **Invest Like the Best w/ Patrick O'Shaughnessy** — the "Patrick" interview; audio/transcript pending if wanted.
+
 ## Essays & archives (open web)
 - ✅ **Paul Graham — Essays** → `full-texts/PaulGraham_Essays_curated.md` (curated high-relevance set + full index link). Founders, taste, ideas, independent thinking. https://paulgraham.com/articles.html
 - 🔗 **Marc Andreessen — The Pmarca Blog Archives** (a16z ebook). Free public PDF: https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf — landing: https://a16z.com/the-pmarca-blog-archive-is-back-as-an-ebook/ *(123KB PDF; drop into inbox or ingest in Source Library phase.)*
