@@ -33,6 +33,9 @@ Not reflexively anti-consensus — he's "quantum about" it. The move is finding 
 
 Example: Send-Cut-Send ("a factory manufacturing / metal cutting business") — "I was more excited about it because it was pretty weird." Consensus after the fact ≠ consensus going in.
 
+### Legibility / illegibility (the unifying frame)
+The spine of his *Invest Like the Best* "Investing at the Frontier" interview (see `sources/full-texts/Huang_ILTB_Investing_at_the_Frontier_notes.md`): the largest returns live in the **illegible** frontier — messy, high-dimensional, hard-to-categorize situations that don't fit a clean bucket and that most investors' frameworks can't parse. He resists premature "dimensional collapse" into simple frameworks and hunts for the edge in what others can't yet make legible. This is the frame *beneath* the contrarian-leaf-node and soulfulness lenses — they're all facets of finding value in the not-yet-legible.
+
 ### Seeing before the evidence
 His pattern for conviction ahead of proof differs case to case, but two shapes recur:
 - **The person, not the product** (ByteDance): "In ByteDance's case, it was much more the person than the thing" — captivated by Zhang Yiming's nonverbal cues through a translator.

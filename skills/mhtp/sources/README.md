@@ -26,7 +26,8 @@ Matt's own canon and curated material. **Source-priority: what's here leads; the
 | 2026-07-20 | Soros on Soros — summary | Joe (PDF) → own-prose | `full-texts/Soros_on_Soros_summary.md` |
 | 2026-07-20 | Leading (Ferguson/Moritz) — summary + epilogue | web-grounded own-prose | `full-texts/Ferguson_Moritz_Leading_summary.md` |
 | 2026-07-21 | Colossus "Paradigm Shifts" profile | web → quotes + own-prose | `full-texts/Huang_Colossus_Paradigm_Shifts_notes.md` |
-| _pending_ | pmarca ebook PDF · Invest Like the Best (Patrick) transcript | web | `sources/full-texts/` |
+| 2026-07-29 | Invest Like the Best EP.420 "Investing at the Frontier" | web (login-gated) → thread distillation | `full-texts/Huang_ILTB_Investing_at_the_Frontier_notes.md` |
+| _pending_ | pmarca ebook PDF (only remaining canon item) | web (direct link in matt-canon.md) | `sources/full-texts/` |
 | _pending_ | **Matt's Slack articles** (if any beyond the canon above) | Slack (private channel) — Joe to confirm | `sources/full-texts/` + fidelity notes |
 | _pending_ | Alpin's ~11k-word Obsidian doc on Matt | Alpin — high-signal | `references/external-observations.md` + fidelity |
 | _pending_ | Alana interview (Jul 17) | interview | `references/external-observations.md` |

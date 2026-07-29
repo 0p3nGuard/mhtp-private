@@ -9,7 +9,7 @@
 
 ## Interviews / profiles (his own words, authorized as genuine)
 - ✅ **Colossus — "Paradigm Shifts"** (profile, Feb 2026) → `full-texts/Huang_Colossus_Paradigm_Shifts_notes.md` (his verbatim quotes + own-prose context; copyrighted article not reproduced). https://colossus.com/article/paradigm-shifts-matt-huang/
-- 🔗 **Invest Like the Best w/ Patrick O'Shaughnessy** — the "Patrick" interview; audio/transcript pending if wanted.
+- ✅ **Invest Like the Best, EP.420 — "Investing at the Frontier"** (Patrick O'Shaughnessy, Apr 2025) → `full-texts/Huang_ILTB_Investing_at_the_Frontier_notes.md` (thread-by-thread distillation + his documented quotes; full Colossus transcript is login-gated, not reproduced). https://colossus.com/episode/investing-at-the-frontier/
 
 ## Essays & archives (open web)
 - ✅ **Paul Graham — Essays** → `full-texts/PaulGraham_Essays_curated.md` (curated high-relevance set + full index link). Founders, taste, ideas, independent thinking. https://paulgraham.com/articles.html
