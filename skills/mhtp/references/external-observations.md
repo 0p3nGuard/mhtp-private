@@ -39,16 +39,39 @@
 
 ---
 
-## Alana — observer-mode / concrete investment reads
-*Lane: concrete investment dynamics and real-time founder reads (where Dan is weak); co-visits founders with Matt (observer mode). Interview: scheduled July 17, 2026 — notes to be integrated.*
+## Alana — the investment decision-making read
+*Closest investing collaborator; they reason through decisions together. Lane: how Matt actually evaluates deals, the biases to watch, and what the tool should do. Interview: August 6, 2026.*
+
+**The "anti-framework" framework.** Matt doesn't run conventional checklists — he hunts the **less obvious signal**, the unique angle, the embedded tailwind. Criteria shift by stage: early stage favors **moonshot bets with high risk tolerance**; later stages demand more concrete factors. His two early-stage questions: *is the founder uniquely positioned to win?* and *are the market dynamics favorable for a category winner?*
+
+**Steel-manning + recursive scenario trees.** His signature move is **steel-manning a business**: running recursive what-if permutations in his head, testing repeatedly until he lands on the strongest possible version of the thesis. He looks for **non-discrete, cascading events** — where one thing going right unlocks multiple doors — rather than long sequential dependency chains.
+
+**The process is deeply introverted.** By the time he presents a thesis to the team, he's already done extensive internal reasoning. Consequence: teammates can **misread his silence as disengagement** when he's actually gone deep privately.
+
+**Taste in people.** Drawn to the intellectually off-the-charts, those at near-impossible levels of achievement, **"N of one"** characteristics. Values **clarity of thinking, concision, and mental clock speed**. But high horsepower isn't a prerequisite — an exceptional *idea* can carry an investment without an exceptional founder. Early and under-the-radar excites him; **consensus or obvious opportunities bore him.** Possible blind spot: he reads brilliance well but may underweight the distribution of eccentricities, ethical risk, and how someone decides under pressure.
+
+**Biases to watch (her explicit list — high value for the tool):**
+- **Social status bias** — high status/stature (a prestigious investor being excited) reads as strong signal, sometimes *too* strong; can produce FOMO decisions in hot markets.
+- **Confirmatory bias** — once conviction sets, he may rationalize rather than genuinely pressure-test the opposing view.
+- **Dismissiveness of the balance sheet** — can underweight financial/fundamental counterarguments when conviction is high.
+- Most dangerous in **hype-driven or highly competitive markets.** Her framing: it's a spectrum — sometimes heat-seeking is rational; the real check is **self-awareness about where he sits on that spectrum** in the moment.
+
+**Intuition.** More intuition-driven than most investors (including in public markets). Intuition is best as a **starting hunch** that must go through "the sausage making" of reasoning before it becomes reliable conviction. The unlock: getting him to **vocalize what's driving the intuition** — that reveals whether the thinking is fully developed or still early.
+
+**What she says the tool should do (design guidance):**
+- **Core need: force him to bring people along in his internal reasoning** — not just surface conclusions at the end.
+- Let him **pressure-test privately first, then surface to the team faster.**
+- A **"Venn diagram"** view of where his conviction overlaps with / diverges from others.
 
 ---
 
 ## Design guidance for MHTP (from the interviews — folded into SKILL.md + guardrails)
-Both Dan and Alpin converged on this; it now shapes the engine directly:
+All three converged on the challenger mandate; Alana added the reasoning-externalization mandate. This shapes the engine directly:
 - **Strategic challenger, not a yes-engine.** The tool's whole value is pushing back **without fear** — something nearly everyone in Matt's life pulls back on, because he's tremendously persuasive and people update toward him.
 - **Sycophancy is the #1 risk.** Do not replicate the social dynamic where people defer to Matt.
-- **Present divergent perspectives; don't synthesize to consensus.** Dan's ideal: multiple independent models each making its own case, in parallel. (Maps to the Multi-Framework Investor Read.)
+- **Present divergent perspectives; don't synthesize to consensus.** Dan's ideal: multiple independent models each making its own case, in parallel. (Maps to the Multi-Framework Investor Read.) Alana's version: a **"Venn diagram"** of where his conviction overlaps with or diverges from others.
 - **Be right when you push back.** Stubborn-but-wrong challenge makes it useless — pushback must be well-grounded.
+- **Externalize the reasoning (Alana).** His thinking is deeply introverted; he surfaces conclusions, not the path. MHTP should help him **make the internal reasoning visible** — draw out the recursive what-if tree, get him to **vocalize what's driving an intuition**, and produce something he can bring the team into. Silence isn't disengagement; it's the work happening privately.
+- **Watch the named biases (Alana).** Social-status/FOMO signal, confirmatory rationalization once conviction sets, and dismissiveness of the balance sheet — most dangerous in hype-driven, competitive markets. Surface as a question about *where he sits on the spectrum right now*, never as a diagnosis.
 
 *See also convergences with Matt's own words: the contrarian leaf node, the indecision loop, spikiness/differentiation, and observer mode all appear in `huang-fidelity.md`.*
