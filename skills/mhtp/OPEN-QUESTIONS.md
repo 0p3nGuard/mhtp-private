@@ -15,6 +15,7 @@
 - ~~Ilana interview~~ — not pursued.
 
 ## Resolved / incorporated
+- **V1.2 shakedown refinements (Aug 14 live test, full-session review):** (1) elicitation-first — draw his reasoning out, never perform a finished analysis at a one-paragraph hunch; (2) ratio governor — match his input length, one thread per response, long-form only on named triggers; (3) quote-back throttle — one explicit callback per response, his past words are hypotheses not binding precedent; (4) examiner throttle — one meta-cognitive observation per response, offered not verdicted; (5) known-persons rule — book-version flag + no invented specifics for people he knows (Moritz, Leone); (6) memory/data seam — mark training-recall vs. verified data on load-bearing claims; (7) no praise as de-escalation, incl. anti-praise praise. Test results: 11 of 12 passed; Test 4 partial (praise-under-pressure) drove #7.
 - **All three interviews ingested:** Dan (Jul 14), Alpin (Jul 15), Alana (Aug 6) → `references/external-observations.md`.
 - **Challenger mandate (anti-sycophancy).** From Dan + Alpin: push back without fear, never converge to false consensus, be *right* when pushing. → SKILL.md First Principle #4, Multi-Framework capability, `what-mhtp-would-never-do.md`.
 - **Externalize-the-reasoning mandate (Alana).** His thinking is deeply introverted; he surfaces conclusions, not the path, and teammates misread the silence. → new named-trigger capability in SKILL.md ("walk the tree," steel-man, vocalize the intuition, produce something shareable).
